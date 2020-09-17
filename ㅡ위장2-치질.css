@@ -1,0 +1,12 @@
+.u-section-1 .u-sheet-1 {min-height: 500px}
+.u-section-1 .u-text-1 {font-size: 0.875rem; width: auto; margin: 5px auto 5px 0} 
+
+@media (max-width: 575px){ .u-section-1 .u-sheet-1 {min-height: 32px} }.u-section-2 .u-sheet-1 {min-height: 500px}
+.u-section-2 .u-line-1 {height: 3px; transform-origin: left center 0; margin: 0 auto 60px 0}
+.u-section-2 .u-btn-1 {border-style: none; box-shadow: 2px 2px 8px 0 rgba(128,128,128,1); margin: 70px auto 60px}
+.u-section-2 .u-btn-2 {box-shadow: 2px 2px 8px 0 rgba(128,128,128,1)} 
+
+@media (max-width: 575px){ .u-section-2 .u-sheet-1 {min-height: 487px}
+.u-section-2 .u-line-1 {margin-bottom: 0; margin-right: initial; margin-left: initial}
+.u-section-2 .u-btn-1 {margin-top: 146px; margin-bottom: 0; padding: 14px 58px 15px 57px}
+.u-section-2 .u-btn-2 {border-style: none; margin: 81px auto 60px; padding: 14px 58px 15px 57px} }
